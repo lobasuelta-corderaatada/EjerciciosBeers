@@ -27,6 +27,7 @@ function getTenMostAlcoholic(listOfBeers){
     return listOfBeers.slice(listOfBeers.length-10, listOfBeers.length);
 }
 
+//Prueba 2.9
 // 5. Generate a function that receives an array of beers as a parameter and returns a new array with the 10 least bitter beers.
 function getLeastBitter(listOfBeers){
     let byBitterness = (a, b) => a.ibu-b.ibu;
