@@ -107,3 +107,4 @@ function getSortedListOfBeersByProperty(listOfBeers, propertyName, ascending) {
 }
 
 // 11. Generate a function that receives as a parameter an array of beers and an id of an HTML element where the table will be printed. The function must render (render, draw, paint, fill, etc.) in an html file a table that contains the columns "Name", "ABV", "IBU", and one row for each element of the array. Each row must have the data requested for each of the beers.
+//Prueba de main
